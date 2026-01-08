@@ -1,2 +1,2 @@
 # freakycatTFTDisplayESP32
-Nobody can match his freak
+Uses Animated_GIF library by Larry Bank. TFT_eSPI config will have to be configured manually.
